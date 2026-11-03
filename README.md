@@ -1,5 +1,5 @@
 # aicte-internship-work
-Iris Flower Classification Using Machine Learning
+IrIris Flower Classification Using Machine Learning
 
 1. Project Overview
 
@@ -40,14 +40,13 @@ https://archive.ics.uci.edu/dataset/53/iris
 
 4. Tools and Technologies
 
-The following tools and technologies will be used:
+The following tools and technologies are used:
 
 - Python
 - Google Colab
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Scikit-learn
 - GitHub
 
@@ -58,11 +57,11 @@ Two classification algorithms will be implemented:
 1. Decision Tree Classifier
 2. K-Nearest Neighbors (KNN)
 
-Their performance will be evaluated and compared using suitable evaluation metrics.
+The Decision Tree model has been trained and evaluated. The KNN model is yet to be implemented.
 
 6. Project Workflow
 
-The project will follow these steps:
+The project follows these steps:
 
 1. Dataset Collection
 2. Data Exploration
@@ -72,15 +71,23 @@ The project will follow these steps:
 6. Model Evaluation
 7. Results and Conclusion
 
-7. Expected Outcome
+7. Results and Expected Outcome
 
-The expected outcome is a classification system that can predict the species of Iris flowers using their physical measurements.
+The Decision Tree Classifier achieved an accuracy of 93.33% on the testing dataset.
 
-The performance of both Machine Learning models will be compared to identify the better-performing model.
+The KNN model will also be implemented, and both models will be compared using suitable evaluation metrics.
+
+The final goal is to build a classification system that predicts Iris flower species using their physical measurements.
 
 8. Project Status
 
-Currently working on the initial setup and dataset exploration of the project.
+- Dataset uploaded successfully.
+- Data exploration completed.
+- Data visualization completed.
+- Training and testing data prepared.
+- Decision Tree model trained.
+- Predictions and model evaluation completed.
+- KNN model implementation pending.
 
 ---
 
