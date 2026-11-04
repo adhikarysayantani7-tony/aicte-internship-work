@@ -50,14 +50,12 @@ The following tools and technologies are used:
 - Scikit-learn
 - GitHub
 
-5. Machine Learning Models
-
-Two classification algorithms will be implemented:
+5. Two classification algorithms have been implemented:
 
 1. Decision Tree Classifier
 2. K-Nearest Neighbors (KNN)
 
-The Decision Tree model has been trained and evaluated. The KNN model is yet to be implemented.
+Both models have been trained and evaluated successfully.
 
 6. Project Workflow
 
@@ -71,24 +69,25 @@ The project follows these steps:
 6. Model Evaluation
 7. Results and Conclusion
 
-7. Results and Expected Outcome
+7. The Decision Tree Classifier achieved an accuracy of 93.33%, while the KNN model achieved 100% accuracy on the testing dataset.
 
-The Decision Tree Classifier achieved an accuracy of 93.33% on the testing dataset.
+KNN performed better than Decision Tree on the current test dataset.
 
-The KNN model will also be implemented, and both models will be compared using suitable evaluation metrics.
+The models were compared using accuracy, confusion matrices and classification reports.
 
-The final goal is to build a classification system that predicts Iris flower species using their physical measurements.
+The final system predicts Iris flower species using their physical measurements.
 
-8. Project Status
-
-- Dataset uploaded successfully.
+8. - Dataset uploaded successfully.
 - Data exploration completed.
 - Data visualization completed.
 - Training and testing data prepared.
-- Decision Tree model trained.
-- Predictions and model evaluation completed.
-- KNN model implementation pending.
+- Decision Tree model trained and evaluated.
+- KNN model trained and evaluated.
+- Accuracy comparison completed.
+- Confusion matrices and classification reports generated.
+- Final conclusion completed.
 
+Project Status: Completed
 ---
 
 Project Type: Data Science and Machine Learning Internship Capstone
